@@ -26,7 +26,7 @@ deepfake quality progress
 
 |<p align="center">first contact</p>|<p align="center">nowadays</p>|
 |---|---|
-|<img src="doc/q_2018.jpg">|<img src="doc/q_2020.jpg">|
+|<img src="doc/quality_first_contact.jpg">|<img src="doc/quality_nowadays.jpg">|
 </td></tr>
 
 <tr><td align="center" width="9999">

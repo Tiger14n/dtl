@@ -22,9 +22,6 @@ DeepFaceLab is used by such popular youtube channels as
 # The road so far
 
 deepfake quality progress
-</td></tr>
-
-<tr><td align="center" width="9999">
 
 |<p align="center">2018 first contact</p>|<p align="center">nowadays</p>|
 |---|---|

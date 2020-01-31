@@ -16,10 +16,11 @@ DeepFaceLab is used by such popular youtube channels as
 |---|---|---|---|---|
 </td></tr>
 <tr><td align="center" width="9999">
-</td></tr>
-<tr><td align="center" width="9999">
 
 # The road so far
+
+</td></tr>
+<tr><td align="center" width="9999">
 
 quality progress
 

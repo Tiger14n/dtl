@@ -24,7 +24,7 @@ DeepFaceLab is used by such popular youtube channels as
 
 quality progress
 
-|<p align="center">2018</p>|<p align="center">2020</p>|
+|<p align="center">First contact</p>|<p align="center">nowadays</p>|
 |---|---|
 |<img src="doc/q_2018.jpg">|<img src="doc/q_2020.jpg">|
 </td></tr>

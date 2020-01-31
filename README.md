@@ -14,9 +14,9 @@ DeepFaceLab is used by such popular youtube channels as
 
 |[Ctrl Shift Face](https://www.youtube.com/channel/UCKpH0CKltc73e4wh0_pgL3g)|[Sham00k](https://www.youtube.com/channel/UCZXbWcv7fSZFTAZV4beckyw/videos)|[Collider videos](https://www.youtube.com/watch?v=A91P2qtPT54&list=PLayt6616lBclvOprvrC8qKGCO-mAhPRux)|[iFake](https://www.youtube.com/channel/UCC0lK2Zo2BMXX-k1Ks0r7dg/videos)|[VFXChris Ume](https://www.youtube.com/channel/UCGf4OlX_aTt8DlrgiH3jN3g/videos)|
 |---|---|---|---|---|
-
 </td></tr>
-
+<tr><td align="center" width="9999">
+</td></tr>
 <tr><td align="center" width="9999">
 
 # The road so far

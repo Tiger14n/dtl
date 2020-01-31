@@ -22,9 +22,9 @@ DeepFaceLab is used by such popular youtube channels as
 </td></tr>
 <tr><td align="center" width="9999">
 
-quality progress
+deepfake quality progress
 
-|<p align="center">First contact</p>|<p align="center">nowadays</p>|
+|<p align="center">first contact</p>|<p align="center">nowadays</p>|
 |---|---|
 |<img src="doc/q_2018.jpg">|<img src="doc/q_2020.jpg">|
 </td></tr>

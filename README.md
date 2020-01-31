@@ -19,7 +19,7 @@ DeepFaceLab is used by such popular youtube channels as
 
 <tr><td align="center" width="9999">
 
-## The road so far
+# The road so far
 
 deepfake quality progress
 </td></tr>
@@ -28,8 +28,9 @@ deepfake quality progress
 
 |<p align="center">2018 first contact</p>|<p align="center">nowadays</p>|
 |---|---|
+|||
 |<img src="doc/q_2018.jpg">|<img src="doc/q_2020.jpg">|
-
+|||
 </td></tr>
 
 
